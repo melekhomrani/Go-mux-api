@@ -1,4 +1,4 @@
-module github.com/melekhomrani/mux-api
+module github.com/melekhomrani/go-mux-api
 
 go 1.21.5
 
